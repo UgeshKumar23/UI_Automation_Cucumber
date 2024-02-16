@@ -1,0 +1,175 @@
+2024-02-15 10:32:53,880 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 10:32:53,889 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 10:32:53,890 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 10:32:53,895 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 10:32:53,895 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 10:32:53,896 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Launchingchrome
+2024-02-15 13:29:28,508 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 13:29:28,517 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 13:29:28,518 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 13:29:28,527 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 13:29:28,527 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 13:29:37,431 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 13:31:27,311 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 13:31:27,319 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 13:31:27,321 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 13:31:27,332 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 13:31:27,336 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 13:31:28,007 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 14:36:58,240 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 14:36:58,249 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 14:36:58,251 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 14:36:58,257 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 14:36:58,258 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 14:36:59,663 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 14:37:05,859 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 14:37:12,731 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 14:37:12,733 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 14:45:47,889 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 14:45:47,900 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 14:45:47,902 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 14:45:47,914 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 14:45:47,916 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 14:45:48,406 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 14:45:54,590 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 14:46:00,345 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 14:46:00,346 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 14:46:00,347 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 14:53:11,899 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 14:53:11,908 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 14:53:11,909 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 14:53:11,918 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 14:53:11,920 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 14:53:12,433 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 14:53:18,715 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 14:53:24,490 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 14:53:24,491 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 14:53:29,525 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 16:45:36,350 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 16:45:36,358 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 16:45:36,359 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 16:45:36,363 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 16:45:36,365 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 16:45:37,708 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 16:45:44,480 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 17:03:15,894 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 17:03:15,901 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 17:03:15,903 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 17:03:15,907 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 17:03:15,909 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 17:03:16,349 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 17:03:22,373 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 17:03:30,046 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 17:03:30,047 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 17:03:33,559 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 17:22:02,737 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 17:22:02,746 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 17:22:02,748 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 17:22:02,754 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 17:22:02,756 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 17:22:03,307 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 17:22:10,208 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 17:22:18,686 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 17:22:18,686 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 17:22:21,718 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 18:17:37,595 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 18:17:37,605 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 18:17:37,606 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 18:17:37,613 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 18:17:37,619 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 18:17:39,078 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 18:17:45,625 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 18:17:49,520 [ERROR] com.lao.step_definition.VerifyProductName_step_def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[text()='Shop online at Amazon India'])[9]"}
+  (Session info: MicrosoftEdge=121.0.2277.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [802ba32fbe3adbc0e28248ebe4ed8018, findElement {value=(//span[text()='Shop online at Amazon India'])[9], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.106, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49686}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\Users\UGESWARI\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49686/devtoo..., se:cdpVersion: 121.0.2277.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 802ba32fbe3adbc0e28248ebe4ed8018
+2024-02-15 18:17:49,694 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 18:17:49,717 [ERROR] com.lao.step_definition.VerifyProductName_step_def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=121.0.2277.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [802ba32fbe3adbc0e28248ebe4ed8018, findElement {value=//input[@id='twotabsearchtextbox'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.106, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49686}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\Users\UGESWARI\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49686/devtoo..., se:cdpVersion: 121.0.2277.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 802ba32fbe3adbc0e28248ebe4ed8018
+2024-02-15 18:17:49,860 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 18:25:22,216 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 18:25:22,226 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 18:25:22,226 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 18:25:22,232 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 18:25:22,234 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 18:25:22,761 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 18:25:28,517 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 18:25:31,848 [ERROR] com.lao.step_definition.VerifyProductName_step_def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[text()='Shop online at Amazon India'])[9]"}
+  (Session info: MicrosoftEdge=121.0.2277.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3b0680c02d9c9ecff61c651888be034d, findElement {using=xpath, value=(//span[text()='Shop online at Amazon India'])[9]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.106, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49854}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\Users\UGESWARI\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49854/devtoo..., se:cdpVersion: 121.0.2277.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b0680c02d9c9ecff61c651888be034d
+2024-02-15 18:25:32,022 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 18:25:32,047 [ERROR] com.lao.step_definition.VerifyProductName_step_def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=121.0.2277.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [3b0680c02d9c9ecff61c651888be034d, findElement {using=xpath, value=//input[@id='twotabsearchtextbox']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.106, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:49854}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\Users\UGESWARI\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49854/devtoo..., se:cdpVersion: 121.0.2277.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3b0680c02d9c9ecff61c651888be034d
+2024-02-15 18:25:32,180 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 19:30:02,850 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 19:30:02,860 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 19:30:02,860 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 19:30:02,867 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 19:30:02,869 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 19:30:04,410 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 19:30:13,289 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 19:30:18,469 [ERROR] com.lao.step_definition.VerifyProductName_step_def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"(//span[text()='Shop online at Amazon India'])[9]"}
+  (Session info: MicrosoftEdge=121.0.2277.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [417c8325bbc9f06e43ccef8120b72194, findElement {value=(//span[text()='Shop online at Amazon India'])[9], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.106, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50282}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\Users\UGESWARI\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50282/devtoo..., se:cdpVersion: 121.0.2277.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 417c8325bbc9f06e43ccef8120b72194
+2024-02-15 19:30:18,651 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 19:30:18,672 [ERROR] com.lao.step_definition.VerifyProductName_step_def [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='twotabsearchtextbox']"}
+  (Session info: MicrosoftEdge=121.0.2277.106)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [417c8325bbc9f06e43ccef8120b72194, findElement {value=//input[@id='twotabsearchtextbox'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.106, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50282}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\Users\UGESWARI\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50282/devtoo..., se:cdpVersion: 121.0.2277.106, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 417c8325bbc9f06e43ccef8120b72194
+2024-02-15 19:30:18,815 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 19:30:58,636 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 19:30:58,646 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 19:30:58,646 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 19:30:58,653 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 19:30:58,655 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 19:30:59,226 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 19:31:06,005 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 19:31:12,491 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 19:31:12,491 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 19:31:19,231 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
+2024-02-15 20:35:02,753 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Execution Started
+2024-02-15 20:35:02,761 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Instantiation the CommonUtils
+2024-02-15 20:35:02,762 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Loading the Properties files
+2024-02-15 20:35:02,769 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Check the driver is null or not
+2024-02-15 20:35:02,771 [INFO ] com.lao.step_definition.Common_Step_Definition [main] Driver is null.Initiate the Chrome Browser
+2024-02-15 20:35:04,214 [INFO ] com.lao.webdriver_manager.DriverManager [main] LaunchingEdge
+2024-02-15 20:35:08,227 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Google
+2024-02-15 20:35:21,741 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Welcome To Flipkart
+2024-02-15 20:35:21,741 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Searching the Laptop in Flipkart
+2024-02-15 20:35:21,797 [INFO ] com.lao.step_definition.VerifyProductName_step_def [main] Products are displayed
