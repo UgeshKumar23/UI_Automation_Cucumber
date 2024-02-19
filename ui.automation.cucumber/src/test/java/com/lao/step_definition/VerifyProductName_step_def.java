@@ -31,7 +31,7 @@ public class VerifyProductName_step_def {
 	catch(Exception e)
 	{
 		LOGGER.error(e);
-		CommonUtils.getInstance().takeScreenshot();
+//		CommonUtils.getInstance().takeScreenshot();
 	}
 		
 	}
@@ -51,7 +51,7 @@ public class VerifyProductName_step_def {
 		catch(Exception e)
 		{
 			LOGGER.error(e);
-			CommonUtils.getInstance().takeScreenshot();
+//			CommonUtils.getInstance().takeScreenshot();
 		}
 		
 	}
@@ -65,12 +65,12 @@ public class VerifyProductName_step_def {
 	//		LoginPage.SearchProduct.sendKeys("Laptop"+Keys.ENTER);
 	//		loginpage.getSearchProduct().sendKeys("Laptop"+Keys.ENTER);
 	//		LoginPage.getInstance().getSearchProduct().sendKeys("Laptop"+Keys.ENTER);
-//			LoginPage.getInstance().searchProduct_laptop();
+			LoginPage.getInstance().searchProduct_laptop();
 		}
 		catch(Exception e)
 		{
 			LOGGER.error(e);
-			CommonUtils.getInstance().takeScreenshot();
+//			CommonUtils.getInstance().takeScreenshot();
 		}
 	}
 
@@ -85,7 +85,7 @@ public class VerifyProductName_step_def {
 		catch(Exception e)
 		{
 			LOGGER.error(e);
-			CommonUtils.getInstance().takeScreenshot();
+//			CommonUtils.getInstance().takeScreenshot();
 //		    Failing the scenario
 			Assert.assertFalse(true);
 		}

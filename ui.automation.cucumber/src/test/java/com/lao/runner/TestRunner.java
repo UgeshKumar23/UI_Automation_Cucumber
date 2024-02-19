@@ -8,10 +8,9 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 		features="classpath:/FeatureFiles",
 		glue="com.lao.step_definition",
-		dryRun=true,
+		dryRun=false,
 		monochrome=true,
-		plugin= {"rerun:target/failed_scenarios.txt",
-				"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
+		plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"}
 )
 public class TestRunner {
 	
